@@ -1,1 +1,1 @@
-# iot_SenseHat_senzory - Modul SenseHat je zapojený cez 40pinový GPIO konektor.
+# Potrebujeme RaspberryPi, Modul SenseHat ktorý je pripojený RaspberryPi cez 40pinový GPIO konektor.
