@@ -1,0 +1,1 @@
+# iot_SenseHat_senzory
